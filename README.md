@@ -1,1 +1,4 @@
-# Bypasser
+ Bypasser
+
+# Requirements
+**Python**
